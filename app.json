@@ -1,6 +1,6 @@
 {
-  "name": "BRANDED FIGHTER'S SPAM BOT",
-  "description": "A Powerful Telegram BRANDED FIGHTER'S SPAM BOT Spam Userbot.",
+  "name": "HERO SPAM BOT",
+  "description": "A Powerful Telegram HERO Spam bot.",
   "logo": "https://telegra.ph/file/321c5a621bd47ded8ef45.jpg",
   "keywords": [
     "spambot",
@@ -70,7 +70,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "797768146",
+        "value": "1898421468",
         "required": true
       }
   },
