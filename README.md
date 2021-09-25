@@ -14,8 +14,8 @@ No Requirement of API ID and API HASH
    - (Use `python string_session.py` next time to generate another string.)
 
 ## Update Channel 
-   - Join [OFFICIAL FIGHT GROUP](https://t.me/ind_branded_fighters)
+   - Join [HERO FIGHTERS](https://t.me/HERO_FIGHTERS_OP)
 ## Support Group
-   - Join [HERO Support Group](https://t.me/HERO_FIGHTERS) for any assistance.
+   - Join [HERO FIGHT GROUP+SUPPORT GROUP ](https://t.me/HERO_FIGHTERS) for any assistance.
 ## Credits
-   - OWNER [@k_ing19451](https://t.me/king_19451).
+   - OWNER [@DARK_COBRA_X_D](https://t.me/DARK_COBRA_X_D).
